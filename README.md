@@ -7,12 +7,12 @@
 
 Nome dos integrantes: 
 
-- Adriano Becco Nunes
-- João Lucas Roque Cerqueir
-- Laura Lanna Brandão
-- Lucas Txai Medeiros da Fonceca
-- Natalia Valin Silva de Freitas Gouveia Alves
-- Rafael Blasques Quarezemin
+- [Adriano Becco Nunes](https://github.com/adrianobnunes)
+- [João Lucas Roque Cerqueira](https://github.com/jaolucas7)
+- [Laura Lanna Brandão](https://github.com/laura-lannab)
+- [Lucas Txai Medeiros da Fonceca](https://github.com/ltxai)
+- [Natalia Valin Silva de Freitas Gouveia Alves](https://github.com/nataliavalins-fga)
+- [Rafael Blasques Quarezemin](https://github.com/rafael-quarezemin)
 
 ## 🍣 Link do surge: http://rappi4-joy.surge.sh/
 Email de teste: astrodev@future4.com
