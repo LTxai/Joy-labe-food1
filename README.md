@@ -14,9 +14,6 @@ Nome dos integrantes:
 - [Natalia Valin Silva de Freitas Gouveia Alves](https://github.com/nataliavalins-fga)
 - [Rafael Blasques Quarezemin](https://github.com/rafael-quarezemin)
 
-## 🍣 Link do surge: http://rappi4-joy.surge.sh/
-Email de teste: astrodev@future4.com
-Senha: 123456
 
 O que funciona:
 - [x]  Cadastro de usuário / endereço
